@@ -3,7 +3,7 @@
 **PROBLEM STATEMENT**-The objective of this credit card approval project is to develop an automated system that efficiently evaluates credit card applications and determines their eligibility for approval. The current manual process for credit card approval is time-consuming, prone to errors, and lacks consistency, leading to delays in customer response and potential revenue loss for the organization.
 
 #
-**PROJECT DESCRIPTION**-The credit card approval system is an automated solution designed to streamline and enhance the process of evaluating credit card applications. The system utilizes advanced algorithms and data analysis techniques to assess applicants' creditworthiness, determine their eligibility for approval, and facilitate real-time decision-making. By automating the approval process, the system aims to improve efficiency, accuracy, and customer experience while reducing the potential for errors and delays.
+**PROJECT DESCRIPTION**-The credit card approval project is an automated solution designed to streamline and enhance the process of evaluating credit card applications. The system utilizes advanced algorithm _two-class logistic regression_ and data analysis techniques to assess applicants' creditworthiness, determine their eligibility for approval, and facilitate real-time decision-making. By automating the approval process, the system aims to improve efficiency, accuracy, and customer experience while reducing the potential for errors and delays.
 #
 
 **ABSTRACT**-
