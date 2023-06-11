@@ -30,3 +30,13 @@ Reporting and Analytics: The credit card approval system generates comprehensive
 #
 
 Overall, the credit card approval system aims to revolutionize the traditional manual process by automating key steps, enhancing efficiency, reducing errors, and improving the customer experience. By leveraging data analysis and real-time decision-making capabilities, the system empowers credit card issuers to make informed and accurate decisions while mitigating risks and ensuring compliance with industry standards.
+
+# 
+**CORE AZURE SERVICES:**
+#
+1) Azure ML sevices
+2) Azure Pipelines
+3) Cloud Shell
+#
+_**PROJECT LINK**_
+[https://github.com/Nisha508/mlop](url)
