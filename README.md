@@ -40,3 +40,6 @@ Overall, the credit card approval system aims to revolutionize the traditional m
 #
 _**PROJECT LINK**_
 https://github.com/Nisha508/mlop
+#
+**Project Demo Link**
+https://drive.google.com/file/d/1rbSNYhwXPPXfAUN9p4eeS_89Jr6Xt8Zn/view?usp=drive_link
