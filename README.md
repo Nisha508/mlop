@@ -39,4 +39,4 @@ Overall, the credit card approval system aims to revolutionize the traditional m
 3) Cloud Shell
 #
 _**PROJECT LINK**_
-[https://github.com/Nisha508/mlop](url)
+https://github.com/Nisha508/mlop
